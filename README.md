@@ -1,1 +1,1 @@
-Web Tech Course
+Home work exercises for Web Technologies Course

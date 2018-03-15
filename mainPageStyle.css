@@ -1,0 +1,33 @@
+html {
+	back
+}
+
+h1 {
+	/*font: italic 4em "Tangerine", serif;*/
+	font-family: 'Cinzel Decorative', cursive;
+  	font-size: 112px;
+	color: rgb(86, 119, 255);
+	background-color: rgba(17, 164, 255, 0.7);
+}
+
+table {
+  display: inline-table;
+  margin: 1em;
+  border-collapse: collapse;
+}
+
+table th {
+	font: italic 1.6em "Fira Sans", serif; 
+	border: 1px solid;
+}
+
+table td {
+	border: 1px solid;
+	width: 400px;
+	height: 250px;
+}
+
+img {
+	width: 400px;
+	height: 250px;
+}

@@ -1,13 +1,16 @@
-html {
-	back
+body {
+	background-color: rgba(107, 195, 255, 0.7);
 }
 
 h1 {
 	/*font: italic 4em "Tangerine", serif;*/
 	font-family: 'Cinzel Decorative', cursive;
   	font-size: 112px;
+  	text-decoration: underline overline;
+  	text-align: center;
 	color: rgb(86, 119, 255);
-	background-color: rgba(17, 164, 255, 0.7);
+	text-shadow: 1px 1px 2px black;
+	/*background-color: rgba(17, 164, 255, 0.7);*/
 }
 
 table {
@@ -17,7 +20,9 @@ table {
 }
 
 table th {
-	font: italic 1.6em "Fira Sans", serif; 
+	/*font: italic 1.6em "Fira Sans", serif;*/
+	font-family: 'Cinzel Decorative', cursive;
+	font-size: 22px;
 	border: 1px solid;
 }
 
